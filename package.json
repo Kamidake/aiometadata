@@ -123,4 +123,9 @@
     "typescript-eslint": "^8.58.1",
     "vite": "^8.0.8"
   }
+},
+"allowScripts": {
+    "bcrypt": true,
+    "better-sqlite3": true
+  }
 }
